@@ -32,7 +32,8 @@ By analyzing which players are most frequently mentioned in commentary, the proj
 
 1. Open the Jupyter Notebook
    ```bash
-   jupyter notebook Premier_League_Project.ipynb
+   jupyter notebook Premier_League_Project_Gerardo_Sandoval-2.ipynb
+2. Follow the notebook cells in order to the end
 
 ---
 
